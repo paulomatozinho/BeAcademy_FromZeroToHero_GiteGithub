@@ -1,6 +1,6 @@
 # Introdução ao GIT e Github
 
-Módulo de introdução ao GIt e Gitgub com apresentação dos comandos básicos
+Módulo de introdução ao Git e Github com apresentação dos comandos básicos
 
 ## Sobre o curso
 
